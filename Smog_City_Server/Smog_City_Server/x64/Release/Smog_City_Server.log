@@ -1,0 +1,22 @@
+﻿  SessionData.cpp
+  SessionPool.cpp
+  Thread.cpp
+  Timer.cpp
+  DB.cpp
+  IOCPModule.cpp
+  CSPacket.cpp
+  Main.cpp
+  SCPacket.cpp
+  ServerManager.cpp
+D:\Graduation\SVN\CleanUp\Server\Smog_City\Network\DB.cpp(195,12): warning C4101:  'retcode' :참조되지 않은 지역 변수입니다.
+D:\Graduation\SVN\CleanUp\Server\Smog_City\Smog_City_Server\Smog_City_Server\ServerManager.cpp(375,25): warning C4244:  '=': '_Ty1'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Graduation\SVN\CleanUp\Server\Smog_City\Smog_City_Server\Smog_City_Server\ServerManager.cpp(375,25): warning C4244:         with
+D:\Graduation\SVN\CleanUp\Server\Smog_City\Smog_City_Server\Smog_City_Server\ServerManager.cpp(375,25): warning C4244:         [
+D:\Graduation\SVN\CleanUp\Server\Smog_City\Smog_City_Server\Smog_City_Server\ServerManager.cpp(375,25): warning C4244:             _Ty1=DWORD
+D:\Graduation\SVN\CleanUp\Server\Smog_City\Smog_City_Server\Smog_City_Server\ServerManager.cpp(375,25): warning C4244:         ]
+  코드를 생성하고 있습니다.
+  0 of 741 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Smog_City_Server.vcxproj -> D:\Graduation\SVN\CleanUp\Server\Smog_City\Smog_City_Server\x64\Release\Smog_City_Server.exe
